@@ -1,0 +1,73 @@
+[
+    [
+        { "asse": "A", "value": 1}, 
+        { "asse": "B", "value": 10},
+        { "asse": "C", "value": 5}, 
+        { "asse": "D", "value": 7},
+        { "asse": "E", "value": 3}  
+    ],
+    [
+        { "asse": "A", "value": 2}, 
+        { "asse": "B", "value": 9},
+        { "asse": "C", "value": 6}, 
+        { "asse": "D", "value": 8},
+        { "asse": "E", "value": 4}  
+    ],
+    [
+       { "asse": "A", "value": 3}, 
+       { "asse": "B", "value": 8},
+       { "asse": "C", "value": 7}, 
+       { "asse": "D", "value": 9},
+       { "asse": "E", "value": 5}  
+   ],
+   [
+       { "asse": "A", "value": 4}, 
+       { "asse": "B", "value": 7},
+       { "asse": "C", "value": 8}, 
+       { "asse": "D", "value": 10},
+       { "asse": "E", "value": 6}  
+   ],
+   [
+       { "asse": "A", "value": 5}, 
+       { "asse": "B", "value": 6},
+       { "asse": "C", "value": 9}, 
+       { "asse": "D", "value": 1},
+       { "asse": "E", "value": 7}  
+   ],
+   [
+       { "asse": "A", "value": 6}, 
+       { "asse": "B", "value": 5},
+       { "asse": "C", "value": 10}, 
+       { "asse": "D", "value": 2},
+       { "asse": "E", "value": 8}  
+   ],
+   [
+       { "asse": "A", "value": 7}, 
+       { "asse": "B", "value": 4},
+       { "asse": "C", "value": 1}, 
+       { "asse": "D", "value": 3},
+       { "asse": "E", "value": 9}  
+   ],
+   [
+       { "asse": "A", "value": 8}, 
+       { "asse": "B", "value": 3},
+       { "asse": "C", "value": 2}, 
+       { "asse": "D", "value": 4},
+       { "asse": "E", "value": 10}  
+   ],
+   [
+       { "asse": "A", "value": 9}, 
+       { "asse": "B", "value": 2},
+       { "asse": "C", "value": 3}, 
+       { "asse": "D", "value": 5},
+       { "asse": "E", "value": 1}  
+   ],
+   [
+       { "asse": "A", "value": 10}, 
+       { "asse": "B", "value": 3},
+       { "asse": "C", "value": 4}, 
+       { "asse": "D", "value": 6},
+       { "asse": "E", "value": 2}  
+   ]
+
+]
