@@ -5,6 +5,6 @@
   .axis line {
     fill: none;
     stroke: #D4D8DA;
-    stroke-width: 2px;
+    stroke-width: 3px;
     shape-rendering: crispEdges;
   }
