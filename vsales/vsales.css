@@ -1,0 +1,70 @@
+svg{
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: Gray;
+    padding: 5px;
+}
+
+text {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div{
+    padding: 8px;
+}
+
+div.tooltip1 {	
+    position: absolute;			
+    text-align: center;			
+    width: 120px;					
+    height: 70px;					
+    padding: 2px;				
+    font: 12px sans-serif;
+    color: black;		
+    background: white;	
+    border: 1px;		
+    border-radius: 8px;	
+    border-style: solid;		
+    pointer-events: none;			
+}
+
+div.tooltip2 {	
+    position: absolute;			
+    text-align: center;			
+    width: 120px;					
+    height: 50px;					
+    padding: 2px;				
+    font: 12px sans-serif;
+    color: black;		
+    background: white;
+    border: 1px;		
+    border-radius: 8px;			
+    border-style: solid;
+    pointer-events: none;   
+}
+
+#year {
+    position: absolute;
+    right: 700px;
+    top: 1270px;
+    width: 80px;
+    text-align: center;
+    
+}
+
+#platform {
+    position: absolute;
+    right: 400px;
+    top: 690px;
+    width: 100px;
+    text-align: center;
+}
+
